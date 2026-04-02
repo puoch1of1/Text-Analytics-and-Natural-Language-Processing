@@ -1,1 +1,0 @@
-"""WordNet analysis package."""
