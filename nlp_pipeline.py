@@ -1,4 +1,4 @@
-"""Organized NLP assignment pipeline for a Gutenberg corpus.
+"""NLP assignment pipeline for a Gutenberg corpus.
 
 The script is structured in VS Code/Jupyter-style cells so each task can be
 run independently while still supporting a single end-to-end execution.
