@@ -4,7 +4,7 @@ This repository contains an NLP course assignment built around a Gutenberg corpu
 
 ## Project Overview
 
-The core implementation is in [nlp_pipeline.py](nlp_pipeline.py), with a companion notebook in [nlp_pipeline.ipynb](nlp_pipeline.ipynb) for interactive exploration. The script is organized into six tasks:
+ The script is organized into six tasks:
 
 1. Text preprocessing and normalization
 2. Morphological analysis using stemming, lemmatization, and affix stripping
